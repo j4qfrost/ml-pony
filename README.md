@@ -1,1 +1,3 @@
 # ml.pony
+
+This project is a meme. I'll be adding more to this as I find free time and if the mood strikes. If enough people message me about making it more robust, then I'll get more serious about implementation. Pony's actors are particularly good for physics simulations and conducive to networked game programming imo. Chemistry simulations would be interesting to explore as well. Branching space.pony off to its own project is one idea I've thought about. Run simulations, gather data, train.
